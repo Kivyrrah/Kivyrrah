@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kivyrrah
-- 👀 I’m interested in VueJS
+- 👀 I’m interested in ReactJS
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
