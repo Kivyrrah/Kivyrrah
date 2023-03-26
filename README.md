@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kivyrrah from Vietnam
 - 👀 I’m interested in Front-End development
 - 🌱 I’m currently learning TypeScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on a Front-End developer team
 - 📫 Please contact me at: truongson2872002@gmail.com
 
 <!---
