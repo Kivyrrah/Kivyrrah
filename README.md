@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Kivyrrah
-- 👀 I’m interested in ReactJS
-- 🌱 I’m currently learning JavaScript
+- 👋 Hi, I’m @Kivyrrah from Vietnam
+- 👀 I’m interested in Front-End development
+- 🌱 I’m currently learning TypeScript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 truongson2872002@gmail.com
 
 <!---
 Kivyrrah/Kivyrrah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
