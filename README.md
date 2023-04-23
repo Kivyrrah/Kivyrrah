@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kivyrrah from Vietnam
+- 👋 Hi, I’m Son from Vietnam
 - 👀 I’m interested in Web Front-End development
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on a Web developer team
 - 📫 Contact me at: truongson2872002@gmail.com
 
