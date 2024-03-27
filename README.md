@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Front-End development
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on a Web developer team
-- 📫 Contact me at: truongson2872002@gmail.com
+- 📫 Contact me at: Kivyrrah001@gmail.com
 
 <!---
 Kivyrrah/Kivyrrah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
