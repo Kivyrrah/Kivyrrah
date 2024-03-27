@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Son from Vietnam
 - 👀 I’m interested in Web Back-End development
-- 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on a BE Web developer team
 - 📫 Contact me at: Kivyrrah001@gmail.com
 
