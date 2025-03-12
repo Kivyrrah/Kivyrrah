@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Son from Vietnam
-- 👀 I’m interested in Web Back-End development
-- 💞️ I’m looking to collaborate on a BE Web developer team
+- 👀 I’m interested in Web fullstack development
+- 💞️ I’m looking to collaborate on a Web developer team
 - 📫 Contact me at: Kivyrrah001@gmail.com
 
 <!---
