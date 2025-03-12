@@ -3,6 +3,8 @@
 - 💞️ I’m looking to collaborate on a Web developer team
 - 📫 Contact me at: Kivyrrah001@gmail.com
 
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=Kivyrrah.Kivyrrah&color=blue)
+
 <!---
 Kivyrrah/Kivyrrah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
