@@ -1,7 +1,11 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 - 👋 Hi, I’m Son from Vietnam
 - 👀 I’m interested in Web fullstack development
 - 💞️ I’m looking to collaborate on a Web developer team
 - 📫 Contact me at: Kivyrrah001@gmail.com
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=Kivyrrah.Kivyrrah&color=orange)
 
@@ -16,6 +20,8 @@ You can click the Preview link to take a look at your changes.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kivyrrah&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🔗 Contact
 
 <p align="center">
@@ -24,8 +30,9 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-### 🛠 Skills
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### 🛠 Skills
 
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" title="JavaScript" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" title="TypeScript" height="25"/> &nbsp;
