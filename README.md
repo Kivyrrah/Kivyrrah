@@ -43,8 +43,8 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" title="PHP" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" title="MySQL" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" title="Linux" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/Ubuntu-282C34?logo=ubuntu&logoColor=E95420" title="Ubuntu" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" title="Docker" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes&logoColor=326CE5" title="Kubernetes" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" title="Git" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" title="MongoDB" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=red" title="Java" height="25"/> &nbsp;
