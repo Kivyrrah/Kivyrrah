@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Son from Vietnam
 - 👀 I’m interested in Web fullstack development
-- 💞️ I’m looking to collaborate on a Web developer team
+- 💞️ I’m looking to collaborate on a Back-End developer team
 - 📫 Contact me at: Kivyrrah001@gmail.com
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
