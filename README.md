@@ -16,8 +16,6 @@ You can click the Preview link to take a look at your changes.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kivyrrah&show_icons=true&theme=light)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kivyrrah&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kivyrrah&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
