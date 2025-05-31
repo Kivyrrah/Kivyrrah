@@ -48,3 +48,4 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" title="Git" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" title="MongoDB" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=red" title="Java" height="25"/> &nbsp;
+<img src="https://img.shields.io/badge/C#-282C34?logo=c#&logoColor=red" title="C#" height="25"/> &nbsp;
